@@ -1,0 +1,8 @@
+{
+        
+        "car_brand": "Ford",
+        "car_model": "Panda AAA",
+        "production_year": "2001",
+        "car_body": "4 doors",
+        "engine_type": "Utili"
+    }

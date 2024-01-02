@@ -1,0 +1,11 @@
+http://127.0.0.1:8000/rest-auth/
+
+http://127.0.0.1:8000/rest-auth/registration/
+
+(la registrazione funziona, ma c'è un problema di Token)
+
+http://127.0.0.1:8000/rest-auth/login/
+
+
+
+http://127.0.0.1:8000/first-app/first/

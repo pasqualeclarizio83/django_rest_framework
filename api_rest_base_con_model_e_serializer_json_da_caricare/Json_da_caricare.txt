@@ -1,0 +1,8 @@
+{
+        
+        "car_brand": "Fiat",
+        "car_model": "Fiat AA",
+        "production_year": "1998",
+        "car_body": "4 doors",
+        "engine_type": "Lenta"
+    },

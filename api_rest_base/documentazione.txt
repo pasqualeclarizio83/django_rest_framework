@@ -1,0 +1,41 @@
+django-admin startproject myapi
+
+cd myapi
+
+python manage.py runserver
+
+
+python manage.py migrate
+
+
+
+python manage.py makemigrations
+
+
+pip install django-rest-auth
+
+
+https://stackoverflow.com/questions/33972587/no-module-named-rest-auth
+
+pip install django-allauth
+
+
+può servire:
+
+pip install auditlog3
+
+
+
+
+pip install django-utils-six
+
+
+pip install djangorestframework==3.11.0
+
+
+pip install django-allauth==0.54.0
+
+
+
+
+python manage.py startapp first_app
