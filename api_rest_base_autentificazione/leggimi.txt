@@ -1,6 +1,0 @@
-https://www.talend.com/it/resources/what-is-an-api/
-
-
-
-
-https://www.snaplogic.com/it/blog/how-to-build-a-rest-api-a-comprehensive-guide
